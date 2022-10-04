@@ -8,7 +8,7 @@
  - Dados 2021: http://dados.recife.pe.gov.br/dataset/acidentes-de-transito-com-e-sem-vitimas/resource/2caa8f41-ccd9-4ea5-906d-f66017d6e107
 
 ## Url do Vídeo do projeto 1:
-    - https://drive.google.com/file/d/1L2V6y7u1Yf12gfneleLW_qb4FkgsjDPp/view?usp=sharing
+    https://drive.google.com/file/d/1L2V6y7u1Yf12gfneleLW_qb4FkgsjDPp/view?usp=sharing
 
 ## Url do Vídeo do Projeto 2:
-    - https://drive.google.com/file/d/1g9yMq9kZwxzDbJ-_6xOOlFDqmiQwUcve/view?usp=sharing
+    https://drive.google.com/file/d/1g9yMq9kZwxzDbJ-_6xOOlFDqmiQwUcve/view?usp=sharing
